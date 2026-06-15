@@ -1,4 +1,2 @@
-I'm Joe. I make code. It's Not good. I hope you like it.
-
-i vibe code **But** i try to only use it for bugfixing.
-this does not happen, but i say it to make myself feel better about vibe coding.
+I'm Joseph. Dude from somewhere in the U.S.
+I build hardware, code, and more. Hack club is awesome. kbaiii.
